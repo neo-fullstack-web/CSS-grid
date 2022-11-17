@@ -12,19 +12,19 @@ body {
 main {
     padding: 1.5rem;
 }
-/* .grid-container {
+.grid-container {
     display: grid;
-    grid-template-columns: 150px 300px;
-    grid-template-rows: 200px 100px;
+    /* grid-template-columns: 150px 300px;
+    grid-template-rows: 200px 100px; */
     grid-auto-flow: column;
     row-gap: 1rem;
-    column-gap: 1.5rem;
+    column-gap: 2rem;
 }
 
 [class*="grid-element"] {
     border: 1px solid dodgerblue;
     padding: 10px;
-} */
+}
 
 .main-header {
     height: 40px;
